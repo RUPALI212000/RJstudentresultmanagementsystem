@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+</head>
+<body>
+	<header>
+		<ul class="nav justify-content-end" style="background: black;">
+      <li class="nav-item">
+    <a class="nav-link" href="teacherdashboard.php">DASHBOARD</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="result.php">RESULT</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="result_details.php">RESULT DETAILS</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="logout.php">LOGOUT</a>
+  </li>
+</ul>
+	</header>
